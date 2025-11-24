@@ -1,0 +1,5 @@
+{
+  "name": "Arcade AI Survey",
+  "description": "A retro arcade-style survey application for gathering AI usage data.",
+  "requestFramePermissions": []
+}
